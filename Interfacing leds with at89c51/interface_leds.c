@@ -41,3 +41,4 @@ void delay(unsigned int x)
     { 
         unsigned int y;
         for (y=0; y<x; y++); //delay by for loop
+    }
